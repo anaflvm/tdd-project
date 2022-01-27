@@ -1,0 +1,3 @@
+Testes de unidade avaliam pequenos trechos de código de forma isolada para garantir que eles funcionam corretamente, por isso podemos dizer que avaliam o sistema do ponto de vista do programador.
+Já os testes funcionais avaliam o sistema do ponto de vista do usuário, visando garantir que o sistema como um todo funcione corretamente.
+Testes de unidade são simples, mais fáceis de implementar e rápidos, enquanto testes funcionais são caros, lentos e frágeis, pois podem quebrar com pequenas mudanças na interface.
